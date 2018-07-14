@@ -123,11 +123,11 @@
 		<div class="col border border-primary task-label">
 			<h2>Stone Dusting</h2>
 		</div>
-		<div class="col border border-primary" id="dusting-countdown">
-			<h2>Dusting Countdown</h2>
+		<div class="col border border-primary" id="dusting-count">
+			<h2>Dusting Count</h2>
 		</div>
-		<div class="col border border-primary" id="distance-countdown">
-			<h2>Distance Countdown</h2>
+		<div class="col border border-primary" id="distance-count">
+			<h2>Distance Count</h2>
 		</div>
 
 	</div>

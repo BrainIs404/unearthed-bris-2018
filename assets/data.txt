@@ -1,1 +1,5 @@
-This is a lit
+Continuous miner
+
+- shuttle car every ... minutes
+- spraying/disting operations every min(50m, 24h)
+- 

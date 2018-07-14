@@ -2,7 +2,7 @@
 
 	<div class="row">
 
-		<div class="col col-lg-1 no-gutter status">
+		<div class="col-1 no-gutter status">
 			<img src="assets/img/Status_black.png" class="status-light rounded-circle">
 		</div>
 		<div class="col border border-primary task-label">
@@ -16,7 +16,7 @@
 
 	<div class="row">
 
-		<div class="col col-lg-1 no-gutter status">
+		<div class="col-1 no-gutter status">
 			<img src="assets/img/Status_black.png" class="status-light rounded-circle">
 		</div>
 		<div class="col border border-primary task-label">
@@ -30,7 +30,7 @@
 
 	<div class="row">
 
-		<div class="col col-lg-1 no-gutter status">
+		<div class="col-1 no-gutter status">
 			<img src="assets/img/Status_black.png" class="status-light rounded-circle">
 		</div>
 		<div class="col border border-primary task-label">
@@ -44,7 +44,7 @@
 
 	<div class="row">
 
-		<div class="col col-lg-1 no-gutter status">
+		<div class="col-1 no-gutter status">
 			<img src="assets/img/Status_black.png" class="status-light rounded-circle">
 		</div>
 		<div class="col border border-primary task-label">
@@ -58,7 +58,7 @@
 
 	<div class="row">
 
-		<div class="col col-lg-1 no-gutter status">
+		<div class="col-1 no-gutter status">
 			<img src="assets/img/Status_black.png" class="status-light rounded-circle">
 		</div>
 		<div class="col border border-primary task-label">
@@ -72,7 +72,7 @@
 
 	<div class="row">
 
-		<div class="col col-lg-1 no-gutter status">
+		<div class="col-1 no-gutter status">
 			<img src="assets/img/Status_black.png" class="status-light rounded-circle">
 		</div>
 		<div class="col border border-primary task-label">
@@ -86,7 +86,7 @@
 
 	<div class="row">
 
-		<div class="col col-lg-1 no-gutter status">
+		<div class="col-1 no-gutter status">
 			<img src="assets/img/Status_black.png" class="status-light rounded-circle">
 		</div>
 		<div class="col border border-primary task-label">
@@ -96,6 +96,20 @@
 			<h2>Numbers</h2>
 		</div>
 
+	</div>
+
+	<div class="row">
+		<div class="col-3 no-gutter status">
+			<img src="assets/img/Status_black.png" class="status-light rounded-circle">
+		</div>
+		<div class="col">
+			<div class="progress">
+  				<div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" style="width: 20%" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"></div>
+			</div>
+		</div>
+		<div class="col-2">
+			<h2>80</h2>
+		</div>
 	</div>
 
 </div>

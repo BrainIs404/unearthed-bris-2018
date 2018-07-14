@@ -1,4 +1,2 @@
-<!doctype html>
-<body>
-	<p>fdghgd</p>
-</body>
+This is the homepage
+<h1>TEST</h1>

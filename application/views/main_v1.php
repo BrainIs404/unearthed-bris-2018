@@ -6,25 +6,12 @@
 			<img src="assets/img/Status_black.png" class="status-light rounded-circle">
 		</div>
 		<div class="col border border-primary task-label">
-			<h2>Continuous Miner Status</h2>
-		</div>
-		<div class="col border border-primary">
-			<h2>how full</h2>
-		</div>
-	</div>
-
-	<div class="row">
-
-		<div class="col col-lg-1 no-gutter status">
-			<img src="assets/img/Status_black.png" class="status-light rounded-circle">
-		</div>
-		<div class="col border border-primary task-label">
 			<h2>Dusting Time</h2>
 		</div>
 		<div class="col border border-primary">
 			<h2>Numbers</h2>
 		</div>
-
+		
 	</div>
 
 	<div class="row">

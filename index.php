@@ -131,6 +131,8 @@ switch (ENVIRONMENT)
  */
 	$view_folder = '';
 
+	$assets_folder = realpath('assets').DIRECTORY_SEPARATOR;
+
 
 /*
  * --------------------------------------------------------------------
@@ -228,6 +230,9 @@ switch (ENVIRONMENT)
 
 	// Path to the system directory
 	define('BASEPATH', $system_path);
+
+	// Path to the assets directory
+	define('ASSETSPATH', $assets_folder);
 
 	// Path to the front controller (this file) directory
 	define('FCPATH', dirname(__FILE__).DIRECTORY_SEPARATOR);

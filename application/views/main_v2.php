@@ -8,7 +8,7 @@
 		<div class="col border border-primary task-label">
 			<h2>Continuous Miner Status</h2>
 		</div>
-		<div class="col border border-primary">
+		<div class="col-2 border border-primary">
 			<h2>how full</h2>
 		</div>
 	</div>
@@ -19,9 +19,9 @@
 			<img src="assets/img/Status_black.png" class="status-light rounded-circle">
 		</div>
 		<div class="col border border-primary task-label">
-			<h2>Dusting Time</h2>
+			<h2>Consumable Parts Supply Time</h2>
 		</div>
-		<div class="col border border-primary">
+		<div class="col-2 border border-primary">
 			<h2>Numbers</h2>
 		</div>
 
@@ -35,8 +35,11 @@
 		<div class="col border border-primary task-label">
 			<h2>Roof Grouting Time</h2>
 		</div>
-		<div class="col border border-primary">
-			<h2>Numbers</h2>
+		<div class="col-1 border border-primary">
+			<h2>Distance in 1 hours</h2>
+		</div>
+		<div class="col-1 border border-primary">
+			<h2>Pods peer hours</h2>
 		</div>
 
 	</div>
@@ -103,7 +106,7 @@
 			<img src="assets/img/Status_black.png" class="status-light rounded-circle">
 		</div>
 		<div class="col border border-primary task-label">
-			<h2>Consumable Parts Supply Time</h2>
+			<h2>Dusting Time</h2>
 		</div>
 		<div class="col border border-primary">
 			<h2>Numbers</h2>

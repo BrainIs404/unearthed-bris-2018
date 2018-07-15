@@ -6,7 +6,6 @@ class Pages extends CI_Controller {
 	{
 		$this->load->view('templates/header.php', array('title'=>'Homepage'));
 		$this->load->view('main.php');
-		$this->load->view('templates/footer.html');
 	}
 }
 
